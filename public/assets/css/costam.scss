@@ -1,0 +1,35 @@
+.hero-area.bg--img .col-xs-6.col-sm-6.col-md-4.col-lg-4 {
+  margin: 0;
+  padding: 3px;
+}
+
+.section-heading span {
+  color: #fff;
+}
+
+
+#new-deal-carousel.owl-carousel.owl-theme .owl-nav .owl-prev {
+  margin-left: -60px;
+  padding: 8px;
+}
+#new-deal-carousel.owl-carousel.owl-theme .owl-nav .owl-next {
+  margin-right: -60px;
+  padding: 8px;
+}
+
+#popular-deal-carousel.owl-carousel.owl-theme .owl-nav .owl-prev {
+  margin-left: -60px;
+  padding: 8px;
+}
+#popular-deal-carousel.owl-carousel.owl-theme .owl-nav .owl-next {
+  margin-right: -60px;
+  padding: 8px;
+}
+.table-responsive {
+  min-height: .01%;
+  overflow-x: auto;
+  border: 1px solid #ccc !important;
+}
+.new-stor .owl-nav {
+    display: none;
+}
